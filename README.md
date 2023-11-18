@@ -22,6 +22,18 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Preview
+![Screenshot 1](Results/Employeemanagerapp.png)
+![Screenshot 2](Results/AddEmployee.png)
+![Screenshot 3](Results/Edit profile.png)
+![Screenshot 4](Results/deleteEmployee.png)
+![Screenshot 5](Results/SearchEmployee.png)
+![Screenshot 6](Results/NoemployeesFound.png)
+
+## Backend
+
+The backend of this project is implemented using Spring Boot. You can find the backend repository [here](https://github.com/HadilEltaif/EmployeeManagerBackEnd).
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
