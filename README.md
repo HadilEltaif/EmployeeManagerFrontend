@@ -25,7 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Preview
 ![Screenshot 1](Results/Employeemanagerapp.png)
 ![Screenshot 2](Results/AddEmployee.png)
-![Screenshot 3](Results/Edit profile.png)
+![Screenshot 3](Results/Editprofile.png)
 ![Screenshot 4](Results/deleteEmployee.png)
 ![Screenshot 5](Results/SearchEmployee.png)
 ![Screenshot 6](Results/NoemployeesFound.png)
